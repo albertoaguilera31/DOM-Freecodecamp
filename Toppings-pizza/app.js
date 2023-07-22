@@ -1,5 +1,5 @@
-const primerTopping = document.querySelector('.topping');
+/*const primerTopping = document.querySelector('.topping');
 
 primerTopping.style.backgroundColor = 'blue';
 
-primerTopping.style.color = '#6dff00';
+primerTopping.style.color = '#6dff00';*/
